@@ -3,4 +3,4 @@
 Simple pop-up modal using vanilla js
 Link of tutorial: https://www.youtube.com/watch?v=6ophW7Ask_0&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=21
 
-Link of preview:
+Link of preview: https://nazaf64.github.io/PopupModal_VanillaJS/
